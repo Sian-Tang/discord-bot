@@ -172,7 +172,7 @@ client.on('message', async message => {
 });
 
 
-
+// enter your token in file: token.js
 client.login(login.token());
 
 /*
