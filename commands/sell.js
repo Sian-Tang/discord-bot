@@ -1,4 +1,4 @@
-const { currency } = require('../app.js');
+const { currency } = require('../main.js');
 const { Users, CurrencyShop } = require('../dbObjects');
 const { Op } = require('sequelize');
 const { UserItems } = require('../models/UserItems.js');
