@@ -1,4 +1,4 @@
-const { currency } = require('../app.js');
+const { currency } = require('../main.js');
 const Discord = require('discord.js');
 const symb = ['+','-','*'];
 const t = 5;
