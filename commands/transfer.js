@@ -1,4 +1,4 @@
-const { currency } = require('../app.js');
+const { currency } = require('../main.js');
 const { Users, CurrencyShop } = require('../dbObjects');
 
 /* function to check if value, given as string, is positive integer */
