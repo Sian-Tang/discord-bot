@@ -1,4 +1,4 @@
-const { currency } = require('../app.js');
+const { currency } = require('../main.js');
 
 module.exports = {
     name: 'balance',
