@@ -1,5 +1,5 @@
 const { Users, CurrencyShop } = require('../dbObjects');
-const { currency } = require('../app.js');
+const { currency } = require('../main.js');
 
 module.exports = {
     name: 'shop',
