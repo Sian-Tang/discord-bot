@@ -1,4 +1,4 @@
-const { currency } = require('../app.js');
+const { currency } = require('../main.js');
 const münze = require('./games/munzwurf.json');
 const Discord = require('discord.js');
 const gif = new Discord.MessageEmbed().setImage('https://media.giphy.com/media/afYKFBzlCLx8rmqzFM/giphy.gif');
