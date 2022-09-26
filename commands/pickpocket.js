@@ -1,4 +1,4 @@
-const { currency } = require('../app.js');
+const { currency } = require('../main.js');
 const { Users, CurrencyShop } = require('../dbObjects');
 const min_amount = 50;
 const Discord = require('discord.js');
